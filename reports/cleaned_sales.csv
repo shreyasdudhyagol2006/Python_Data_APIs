@@ -1,0 +1,13 @@
+Date,Product,Category,Quantity,Price,City,Revenue
+2026-01-01,Laptop,Electronics,2.0,45000,Belagavi,90000.0
+2026-01-02,Mobile,Electronics,5.0,15000,Bengaluru,75000.0
+2026-01-03,Chair,Furniture,4.0,2500,Hubballi,10000.0
+2026-01-04,Table,Furniture,3.0,5000,Mysuru,15000.0
+2026-01-05,Headphones,Electronics,6.0,1500,Belagavi,9000.0
+2026-01-06,Keyboard,Electronics,8.0,800,Bengaluru,6400.0
+2026-01-07,Mouse,Electronics,10.0,500,Hubballi,5000.0
+2026-01-08,Monitor,Electronics,2.0,12000,Mysuru,24000.0
+2026-01-09,Unknown,Electronics,3.0,2000,Belagavi,6000.0
+2026-01-10,Desk,Furniture,4.0,7000,Bengaluru,28000.0
+2026-01-11,Mobile,Electronics,5.0,15000,Bengaluru,75000.0
+2026-01-12,Chair,Furniture,4.0,2500,Hubballi,10000.0
